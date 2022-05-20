@@ -15,7 +15,7 @@
 # 最后
 如果觉得不错，欢迎点个 star，谢谢
 
-# 关于作者
+<!-- # 关于作者
 
 **加我的微信，备注：「个人简单介绍」+「读者」**， 拉你进读者交流群。
 
@@ -29,4 +29,4 @@
   <a href="https://github.com/rongweihe/MoreThanCode/">
       <img src="https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BA%95%E9%83%A8.jpeg" height="200" width="500">
   </a>
-</p>
+</p> -->
